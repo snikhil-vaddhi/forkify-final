@@ -1,5 +1,11 @@
 # forkify Project
 
+Live app link: https://forkify-app-recipe-finder-js.netlify.app/ #forkify-app To run the app
+
+clone the repo
+npm install
+npm start
+
 Recipe Management Application
 
 Our Recipe Management Application is designed to help users discover, save, and manage their favorite recipes with ease. Whether you're a culinary enthusiast or a home cook looking for inspiration, our platform offers a comprehensive set of features to streamline your cooking experience.
